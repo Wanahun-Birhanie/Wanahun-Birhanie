@@ -1,9 +1,3 @@
-.h{
-background-color:orange;
-alignment:center;
-
-}
-
 ## Hi, I’m @Wanahun-Birhanie
 
 <h2 style="color:blue">I’m interested in Mathematical Softwares</h2>
