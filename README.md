@@ -1,4 +1,4 @@
-h{
+.h{
 background-color:orange;
 alignment:center;
 
